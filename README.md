@@ -1,5 +1,5 @@
 # customer_analytics.github.io
-Consumer Behavior Analysis for JD.com - Python
+E-commerce Consumer Behavior Analysis for JD.com - Python
 •	Analyzed e-commerce dataset (~1,000,000 records), performing funnel analysis and visualizing the conversion rate with Python
 
 •	Calculated visitors, page views, click-through rates, and bounce rates from 01/01/2020 to 12/31/2020 with SQL and Python 
