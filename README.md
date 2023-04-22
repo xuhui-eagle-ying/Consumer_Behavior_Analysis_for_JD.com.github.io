@@ -1,4 +1,4 @@
-# Customer Analytics.github.io
+# customer_analytics.github.io
 Consumer Behavior Analysis for JD.com - Python
 •	Analyzed e-commerce dataset (~1,000,000 records), performing funnel analysis and visualizing the conversion rate with Python
 
